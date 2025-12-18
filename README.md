@@ -236,10 +236,7 @@ Contribuțiile sunt binevenite! Dacă ai sugestii de îmbunătățire:
 ### 📄 Licență
 
 Acest proiect este licențiat sub MIT License - vezi fișierul [LICENSE](LICENSE) pentru detalii.
-
-### 🌟 Mulțumiri
-
-- Conceput pentru sectorul bancar românesc dar adaptabil internațional
+- Conceput pentru sectorul bancar
 - Aliniat cu Basel III și reglementările bancare UE (CRD/CRR)
 - Bazat pe cele mai bune practici din industrie în analiza financiară
 
@@ -247,7 +244,7 @@ Acest proiect este licențiat sub MIT License - vezi fișierul [LICENSE](LICENSE
 
 ## 📈 Version History
 
-- **v1.0.0** (2024) - Initial release
+- **v1.0.0** (2025) - Initial release
   - Complete banking analysis framework
   - Romanian language prompt
   - 10-section comprehensive structure
